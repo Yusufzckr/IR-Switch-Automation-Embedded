@@ -34,4 +34,4 @@ An embedded system prototype developed with **C++** and **PlatformIO** that enab
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/IR-Switch-Automation-Embedded.git](https://github.com/YOUR_USERNAME/IR-Switch-Automation-Embedded.git)
+   git clone [https://github.com/Yusufzckr/IR-Switch-Automation-Embedded.git](https://github.com/Yusufzckr/IR-Switch-Automation-Embedded.git)
